@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manish946
 - 👀 I’m interested in Software and Web Development.
-- 🌱 I’m currently learning Software Development.
+- 🌱 I’m a Fullstack Software Developer.
 - 📫 Reach me with Manishesha@gmail.com
 - ✨ Personal Website - https://manishcv.me/
 <!---
